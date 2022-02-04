@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">Live Location</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Peruuta</string>
+    <string name="close">Sulje</string>
+    <string name="yes">Kyllä</string>
+    <string name="save">Tallenna</string>
+    <string name="no">Ei</string>
+    <string name="share">Jaa</string>
+    <string name="loading">Lataa&#8230;</string>
+    <string name="loading_picture">Kuvaa ladataan&#8230;</string>
+    <string name="loading_user_create">Käyttäjää tallennetaan&#8230;</string>
+    <string name="note">Huomaa!</string>
+    <string name="remove">Poista</string>
+    <string name="monday">ma</string>
+    <string name="tuesday">ti</string>
+    <string name="wednesday">ke</string>
+    <string name="thursday">to</string>
+    <string name="friday">pe</string>
+    <string name="saturday">la</string>
+    <string name="sunday">su</string>
+
+    <string name="welcome_title">Tervetuloa!</string>
+    <string name="welcome_info">Luo profiili, jotta kaverisi löytävät sinut sovelluksessa. Jatka Facebook-tunnuksilla tai täytä tiedot manuaalisesti.</string>
+    <string name="welcome_to_app">Luo profiili</string>
+    <string name="welcome_facebook">Jatka Facebookilla</string>
+
+    <string name="friends_add_friends">Lisää kavereita</string>
+    <string name="friends_start_share">Jaa sijainti</string>
+    <string name="friends_share_also">Jaa myös valituille</string>
+    <string name="friends_stop_share">Lopeta jakaminen</string>
+    <string name="friends_no_friends">Moi! Kun lisäät kavereita, voitte jakaa sijaintinne toisillenne.</string>
+    <string name="friends_remove_confirmation">Haluatko varmasti poistaa tämän kaverin?</string>
+    <string name="friends_location_requested">Sijainti pyydetty</string>
+    <string name="friends_location_shared">Sijainti jaettu</string>
+    <string name="friends_ask_location">Pyydä sijainti</string>
+    <string name="friends_send_location">Lähetä sijainti kerran</string>
+    <string name="friends_remove_friend">Poista kavereista</string>
+    <string name="friends_sharing">Sijaintia jaetaan</string>
+    <string name="friends_select_friends">Valitse kaverit, joille sijainti jaetaan.</string>
+
+    <string name="location_not_found">Sijaintiasi ei löytynyt. Aseta laitteen sijaintitiedot päälle ja paina OK.</string>
+    <string name="friend_added">Kaveri lisätty</string>
+    <string name="friend_send_request">Lähetä kaveripyyntö</string>
+    <string name="friend_remove_sent_request">Poista kaveripyyntö</string>
+    <string name="friend_request_sent">Kaveripyyntö lähetettiin!</string>
+    <string name="friend_request_removed">Kaveripyyntö poistettiin!</string>
+    <string name="friend_request_decline">Hylkää</string>
+    <string name="friend_request_accept">Hyväksy</string>
+    <string name="friend_requests">Kaveripyynnöt</string>
+
+    <string name="notification_started_share">alkoi jakaa sijainnin kanssasi!</string>
+    <string name="notification_request_accepted">hyväksyi kaveripyyntösi!</string>
+    <string name="notification_request_sent">lähetti kaveripyynnön!</string>
+    <string name="notification_location_requested">pyysi sijantisi!</string>
+    <string name="notification_location_sent">lähetti sijaintinsa!</string>
+    <string name="notification_started_moving">lähti liikkeelle!</string>
+    <string name="notification_sharing">Live-sijainti jaetaan</string>
+
+    <string name="share_time_title">Jaa live-sijainti</string>
+    <string name="share_time_once">Lähetä sijaintisi kerran</string>
+    <string name="share_time_minutes">minuuttia</string>
+    <string name="share_time_minute">minuutti</string>
+    <string name="share_time_hours">tuntia</string>
+    <string name="share_time_hour">tunti</string>
+    <string name="share_time_days">päivää</string>
+    <string name="share_time_day">päivä</string>
+    <string name="share_time_until_stop">Kunnes otat jakamisen pois päältä</string>
+    <string name="share_time_until">Kunnes kello on</string>
+
+    <string name="profile_create_title">Täytä profiilisi, jotta kaverisi löytävät sinut</string>
+    <string name="profile_firstname">Etunimi</string>
+    <string name="profile_lastname">Sukunimi</string>
+    <string name="profile_facebook_info">Näe sovellusta käyttävät kaverisi</string>
+    <string name="profile_like_app">Tykkäätkö sovelluksesta?</string>
+    <string name="profile_rate">Arvostele sovellus</string>
+    <string name="profile_select_picture">Vaihda profiilikuvasi</string>
+    <string name="profile_from_gallery">Valitse galleriasta</string>
+    <string name="profile_from_camera">Ota kuva kameralla</string>
+    <string name="profile_picture_remove_error">Tapahtui virhe! Kuvaa ei poistettu.</string>
+    <string name="profile_picture_upload_error">Tapahtui virhe! Kuvaa ei lisätty.</string>
+    <string name="profile_picture_error">Kuvaa ei voitu vaihtaa</string>
+    <string name="profile_picture_remove">Käytä oletuskuvaa</string>
+    <string name="profile_saved">Tiedot tallennettiin!</string>
+    <string name="profile_no_facebook_friends">Kukaan Facebook-kavereistasi ei vielä käytä sovellusta. Haluatko kutsua heitä sovellukseen?</string>
+    <string name="profile_friends_using_app">Kaverisi käyttävät sovellusta! Löydät heidät \"Lisää kavereita\" sivulta.</string>
+
+    <string name="search_friends_by_name">Etsi nimellä</string>
+    <string name="search_friends_facebook_info">Facebook kaverisi, jotka käyttävät sovellusta</string>
+    <string name="search_friends_invite">Kutsu kavereita sovellukseen</string>
+    <string name="search_friends_title">Etsi kavereita</string>
+
+    <string name="map_sharing_to_you">Sinulle jaettu</string>
+    <string name="map_sharing">Jakaa toistaiseksi</string>
+    <string name="map_time_left">jäljellä</string>
+    <string name="map_location_permission_info">Sovellus tarvitsee laitteesi sijainnin käyttöluvan toimiakseen.</string>
+    <string name="map_allow_map">Näytä kartta</string>
+    <string name="map_share_to_all">Jaa sijainti kaikille kavereillesi</string>
+
+    <string name="invite_message">Käyppä lataamassa tämä sovellus niin voidaan jakaa sijaintimme kätevästi: https://play.google.com/store/apps/details?id=com.ardeapps.livelocation</string>
+    <string name="invite_email_subject">Lataappa tämä sovellus!</string>
+    <string name="invite_chooser_title">Kuinka haluat kutsua kavereita?</string>
+
+    <string name="info_location_desc">Sovellus perustuu sijaintitietoihin. Jos et hyväksy sijaintitietojasi, et valitettavasti pysty käyttämään sovellusta.</string>
+
+    <string name="google_play_not_supported">This device is not supported for play services</string>
+    <string name="permission_not_granted">Olet estänyt tämän toiminnon käytön.</string>
+    <string name="error_network">Ei internet-yhteyttä!</string>
+    <string name="com_facebook_loginview_log_in_button">Kirjaudu Facebookilla</string>
+    <string name="com_facebook_loginview_log_out_button">Kirjaudu ulos</string>
+    <string name="facebook_error">Tapahtui virhe!</string>
+    <string name="facebook_app_id">1508064615944111</string>
+    <string name="fb_login_protocol_scheme">fb1508064615944111</string>
+    <string name="google_map_api_key">key</string>
+    <string name="admob_app_id">ca-app-pub-2033708472283724~5106925757</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2033708472283724/7705168939</string>
+</resources>

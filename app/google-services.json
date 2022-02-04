@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "729715216878",
+    "firebase_url": "https://catch-me-88ea6.firebaseio.com",
+    "project_id": "catch-me-88ea6",
+    "storage_bucket": "catch-me-88ea6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729715216878:android:bab842b9a78ae507",
+        "android_client_info": {
+          "package_name": "com.ardeapps.livelocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729715216878-sv15g49g03punt5hm4hv9v3kt7oe7ph2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkwD0ZUqRRafsRzWnAlkWkT6HJcE-vcWg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

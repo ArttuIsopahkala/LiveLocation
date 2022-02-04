@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_alignParentTop="true">
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/color_main"
+        android:id="@+id/container">
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/back_icon"
+            android:layout_gravity="center_vertical"
+            android:id="@+id/arrow"
+            android:paddingTop="15dp"
+            android:paddingBottom="15dp"
+            android:onClick="onBackIconPressed"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textSize="16sp"
+            android:text="Etsi kavereita"
+            android:id="@+id/menu_title"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/arrow"
+            android:layout_toEndOf="@+id/arrow"
+            android:textColor="@color/color_text_light"
+            android:gravity="center_vertical"/>
+    </RelativeLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/color_shadow"
+        android:id="@+id/menu_line"
+        android:layout_below="@+id/container"/>
+</RelativeLayout>

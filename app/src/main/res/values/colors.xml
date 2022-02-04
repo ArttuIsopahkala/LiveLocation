@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="color_main" type="color">#da372a</item>
+    <item name="color_main_secondary" type="color">#DD493D</item>
+    <item name="color_text" type="color">#da372a</item>
+    <item name="color_text_light" type="color">#F4F4F4</item>
+    <item name="color_text_hint" type="color">#aeaeae</item>
+    <item name="color_circle" type="color">#f28877</item>
+    <item name="color_secondary" type="color">#9F291F</item>
+    <item name="color_shadow" type="color">#3e3e3e</item>
+    <item name="color_text_black" type="color">#0d0d0d</item>
+    <item name="color_link" type="color">#FF1C77FF</item>
+    <item name="color_url_link" type="color">#05C5CF</item>
+    <item name="color_button" type="color">#ffffff</item>
+    <item name="color_button_disabled" type="color">#f0afaa</item>
+    <item name="color_white" type="color">#ffffff</item>
+    <item name="color_sharing_notification" type="color">#299605</item>
+</resources>
